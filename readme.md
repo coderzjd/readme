@@ -8,6 +8,7 @@
 + [Python](https://github.com/coderzjd/python_note)
 + [TypeScript](https://github.com/coderzjd/TypeScript_note)
 + [promise详解](https://github.com/coderzjd/jd_promsie_detail)
++ [sql_note](https://github.com/coderzjd/sql_note)
 
 ### 二、前端开发笔记
 + [vue_全家桶](https://github.com/coderzjd/vue3_note)
